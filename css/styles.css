@@ -1,0 +1,23 @@
+/*
+Color Palette used: https://colorhunt.co/palette/257808
+*/
+
+body {
+  background-color: #8ac4d0;
+  font-family: Arial, sans-serif;
+}
+
+hr {
+  border-top: 5px dotted #f4d160;
+  width: 5%;
+}
+
+h1 {
+  color: #28527a;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  color: #28527a;
+  font-family: "Lucida Handwriting", Arial, sans-serif;
+}
